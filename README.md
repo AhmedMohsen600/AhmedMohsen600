@@ -28,3 +28,4 @@ Junior Full-stack Developer with a proven ability to write clean components, reu
 
 ## 📫 How to reach me:
 
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
