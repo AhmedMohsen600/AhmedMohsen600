@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![hours (1)](https://user-images.githubusercontent.com/55211914/202455047-b99a32c5-a064-4f1e-b504-44ec04f57141.jpg)
 
-🔭 I’m currently in Microverse, it's an online school to be a full-stack developer we work in an intense environment 8 hours a day, and we work with people from all over the world in a collaborative environment and pair-programming together on projects.
+🔭 I'm currently in Microverse, it's an online school to be a full-stack developer we work in an intense environment 8 hours a day, and we work with people from all over the world in a collaborative environment and pair-programming together on projects.
 
 Stack: 
 
