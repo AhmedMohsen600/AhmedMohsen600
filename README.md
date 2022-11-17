@@ -26,9 +26,9 @@ Stack:
 
 Junior Full-stack Developer with a proven ability to write clean components, reusable code, well-organized architecture, and a willingness to learn more, with a desire to apply learned skills, experience in building responsive websites with HTML, CSS, SASS, JavaScript, Redux, Ruby & Rails. Expertise in frameworks like React.js an agile environment using git as version control. Passionate about clean code and getting things done.
 
-🌱 I’m currently learning Ruby and Rails to become full stack developer
+🌱 I'm currently learning Ruby and Rails to become full stack developer
 
-💼 I’m pursuing a Bachelor's degree in Mass communication.
+💼 I'm pursuing a Bachelor's degree in Mass communication.
 
 💬 Ask me about anything, I love to answer!
 
