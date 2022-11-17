@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 Stack: 
 
-![react badge](https://badges.aleen42.com/src/react.svg) ![redux badge](https://badges.aleen42.com/src/redux.svg)   ![](https://ruby-gem-downloads-badge.herokuapp.com/rails/4.1.0)
-
+![react badge](https://badges.aleen42.com/src/react.svg) ![redux badge](https://badges.aleen42.com/src/redux.svg) ![javascript](https://badges.aleen42.com/src/javascript.svg)
 
 ## About me
 
