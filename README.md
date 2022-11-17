@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently in Microverse, it's an online school to be a full-stack developer we work in an intense environment 8 hours a day, and we work with people from all over the world in a collaborative environment and pair-programming together on projects.
 
+### About me
+
+Frontend developer(React.js) with a proven ability to write clean components, reusable code, well-organized architecture, and a willingness to learn more, with a desire to apply learned skills.
