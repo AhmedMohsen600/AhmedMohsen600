@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 
 🔭 I’m currently in Microverse, it's an online school to be a full-stack developer we work in an intense environment 8 hours a day, and we work with people from all over the world in a collaborative environment and pair-programming together on projects.
 
+Stack: 
+
+React Badge JavaScript Badge Node js Badge Ruby Badge Ruby On Rails Badge Bootstrap Badge
 
 ## About me
 
 Junior Full-stack Developer with a proven ability to write clean components, reusable code, well-organized architecture, and a willingness to learn more, with a desire to apply learned skills, experience in building responsive websites with HTML, CSS, SASS, JavaScript, Redux, Ruby & Rails. Expertise in frameworks like React.js an agile environment using git as version control. Passionate about clean code and getting things done.
 
+## 📫 How to reach me:
 
