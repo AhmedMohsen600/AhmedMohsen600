@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-- HTML
-- CSS
-- bootstrap
-- javascript
-- DOM
-- javascirpt classes
-- Webpack
+Frontend developer(React.js) with a proven ability to write clean components, reusable code, well-organized architecture, and a willingness to learn more, with a desire to apply learned skills.
 
 
