@@ -24,8 +24,11 @@ Stack:
 
 ## About me
 
-Junior Full-stack Developer with a proven ability to write clean components, reusable code, well-organized architecture, and a willingness to learn more, with a desire to apply learned skills, experience in building responsive websites with HTML, CSS, SASS, JavaScript, Redux, Ruby & Rails. Expertise in frameworks like React.js an agile environment using git as version control. Passionate about clean code and getting things done.
-
+- Junior Full-stack Developer with a proven ability to write clean components, reusable code, well-organized architecture, and a willingness to learn more, with a desire to apply learned skills, experience in building responsive websites with HTML, CSS, SASS, JavaScript, Redux, Ruby & Rails. Expertise in frameworks like React.js an agile environment using git as version control. Passionate about clean code and getting things done.
+- 🌱 I’m currently learning Ruby and Rails to become full stack developer
+- 💼 I’m pursuing a Bachelor's degree in Mass communication.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at ahmedmohsen159357@gmail.com
 ## 📫 How to reach me:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohsen-bb75b2194/) [![instgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed_mohsen157/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohsen-bb75b2194/) [![instgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed_mohsen157/) 
