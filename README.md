@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Stack: 
 
-https://badges.aleen42.com/src/react.svg JavaScript Badge Node js Badge Ruby Badge Ruby On Rails Badge Bootstrap Badge
+![react badge](https://badges.aleen42.com/src/react.svg) JavaScript Badge Node js Badge Ruby Badge Ruby On Rails Badge Bootstrap Badge
 
 ## About me
 
